@@ -8,6 +8,7 @@
 # Site settings
 title: The White Jersey
 email: jamesmoffat@outlook.com
+Name: James Moffat
 description: A very ocassional cyclist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thewhitejersey.com" # the base hostname & protocol for your site
